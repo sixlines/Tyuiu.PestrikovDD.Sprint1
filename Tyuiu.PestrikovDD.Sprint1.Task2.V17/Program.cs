@@ -1,6 +1,6 @@
 ﻿using Tyuiu.PestrikovDD.Sprint1.Task2.V17.Lib;
 
-namespace Tyuiu.KokoulinIV.Sprint1.Task2.V17
+namespace Tyuiu.PestrikovDD.Sprint1.Task2.V17
 {
     internal class Program
     {
